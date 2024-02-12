@@ -12,7 +12,7 @@ public class Merhaba {
         for (int i = 0; i < 5; i++) {
             System.out.println("merhaba");
         }
-
+            System.out.println("Merhaba 6");
 
 
 
